@@ -1,4 +1,4 @@
-
+![Blips.club Logo](https://raw.githubusercontent.com/NewmanWasTaken/blipsmobileandroid/main/blipsLOGO.png)
 
 # blips.club for android
 an attempt to port blips.club to mobile.
