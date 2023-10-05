@@ -5,6 +5,7 @@ blips mobile is an alternitave to twitter, and a mobile port of the website beta
 
 ## Requirements
 * An android phone that supports https web browsing
+* Android 7.x and Above
 * The Blips Mobile APK
 
 # Instalation Guide
