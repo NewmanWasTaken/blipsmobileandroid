@@ -1,7 +1,7 @@
 ![Blips.club Logo](https://raw.githubusercontent.com/NewmanWasTaken/blipsmobileandroid/main/blipsLOGO.png)
 
 # Blips Mobile
-blips mobile is an alternitave to twitter, and a mobile port of the website beta.blips.club.
+blips mobile is an alternitave to twitter, and a mobile port of the website blips.club.
 
 ## Requirements
 * An android phone that supports https web browsing
